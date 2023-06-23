@@ -5,7 +5,7 @@
   <title>Riley Hess, M.S., Doctoral Candidate</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: Helvetica, sans-serif;
       margin: 0;
       padding: 0;
     }
@@ -61,7 +61,6 @@
       <button class="tab-button" onclick="openTab(event, 'skills')">Skills</button>
       <button class="tab-button" onclick="openTab(event, 'projects')">Publications</button>
       <button class="tab-button" onclick="openTab(event, 'work experience')">Work Experience</button>
-
     </div>
     <div id="about" class="tab active">
       <h2>About Me</h2>
@@ -100,9 +99,27 @@ SIOPAnnual Conference: Seattle, WA.
   <li>Hess, R. A., Zayyad, T.N., Schneider, A. M., Miller, J. M., Landau, M. J., (2018, April). Why Does Time Fly? Exploring Whether Interpersonal Power Biases Time Perception. Poster presented at the Midwestern Psychological Association 90th Annual Meeting: Chicago, IL.</li>
   <li>Hess, R. A., & Baker, T. A., (2016, April). Understanding what Black Men Want in a Chronic Disease Self-Management Program. Poster presented at the University of Kansas Undergraduate Symposium, Lawrence, KS.</li>
     <li>Nordhem, L., Hess, R. A., & Baker, T. A., (2016, April). Chronic Disease Intervention Programs for Black Men: What Works? Poster presented at the University of Kansas Undergraduate Psychology Symposium, Lawrence, KS.</li>
-      </ul>
-    </div>
-  </main>
+
+<div id="work-experience" class="tab">
+  <h2>Work Experience</h2>
+  <ul>
+    <li>
+      <h3>State Farm</h3>
+      <p>Position: I/O Psychology PhD Intern</p>
+      <p>Duration: May 2022 - May 2023</p>
+      
+    </li>
+    <li>
+      <h3>Coachability Consultants Inc.</h3>
+      <p>Position: Data Science Consultant</p>
+      <p>Duration: August - December 2022</p>
+      
+    </li>
+  </ul>
+</div>
+
+
+  
   <footer>
     <p>&copy; 2023. All rights reserved.</p>
   </footer>
