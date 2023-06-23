@@ -10,7 +10,7 @@
       padding: 0;
     }
     header {
-      background-color: #5390d9;
+      background-color: #577590;
       color: #fff;
       padding: 20px;
       text-align: center;
@@ -25,14 +25,14 @@
       display: block;
     }
     .tab-button {
-      background-color: #7400b8;
+      background-color: #4d908e;
       color: #fff;
       padding: 10px;
       border: none;
       cursor: pointer;
     }
     .tab-button.active {
-      background-color: #6930c3;
+      background-color: #43aa8b;
     }
   </style>
   <script>
@@ -76,11 +76,16 @@
       </ul>
     </div>
     <div id="projects" class="tab">
-      <h2>Projects</h2>
+      <h2>Publications</h2>
       <ul>
-        <li>Project 1</li>
-        <li>Project 2</li>
-        <li>Project 3</li>
+        <li>Hess, R. A., Erickson, O. A., Cole, R. B., Isaacs, J. M., Alvarez-Clare, S., Arnold, J., ... & Dolan, E. L. (2023). Virtually the same? Evaluating the effectivenessof remote undergraduate research experiences. CBE—Life Sciences Education, 22(2).</li>
+        <li>Hess, R. (Co-chair), Outland, N. (Co-Chair), & Behrend, T. (Discussant). (2023, April).
+Can (A)I be on your team? Evaluating uses of AI in organizationalteams
+[Symposium]. SIOP Annual Conference: Boston, MA.</li>
+        <li>Hess, R. A., Kang, B., Richardson, J., Stryker, S. R., & Outland, N. (2022, April).
+A Qualitative Investigation of Fear and Acceptance of AI at Work.
+SIOPAnnual Conference: Seattle, WA.
+[Received top 10 poster award]</li>
       </ul>
     </div>
   </main>
