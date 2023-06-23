@@ -1,6 +1,5 @@
 # rileyhess.githhub.io
 
-<!DOCTYPE html>
 <html>
 <head>
   <title>Riley Hess, M.S., Doctoral Candidate</title>
@@ -11,7 +10,7 @@
       padding: 0;
     }
     header {
-      background-color: #333;
+      background-color: #5390d9;
       color: #fff;
       padding: 20px;
       text-align: center;
@@ -26,14 +25,14 @@
       display: block;
     }
     .tab-button {
-      background-color: #333;
+      background-color: #7400b8;
       color: #fff;
       padding: 10px;
       border: none;
       cursor: pointer;
     }
     .tab-button.active {
-      background-color: #555;
+      background-color: #6930c3;
     }
   </style>
   <script>
@@ -54,7 +53,7 @@
 </head>
 <body>
   <header>
-    <h1>Welcome to My Personal Website</h1>
+    <h1>Riley Hess, M.S., Doctoral Candidate</h1>
   </header>
   <main>
     <div class="tab-button-container">
