@@ -102,7 +102,6 @@ SIOPAnnual Conference: Seattle, WA.
        </ul>
     </div>
     
-
 <div id="work-experience" class="tab">
   <h2>Work Experience</h2>
   <ul>
@@ -110,16 +109,25 @@ SIOPAnnual Conference: Seattle, WA.
       <h3>State Farm</h3>
       <p>Position: I/O Psychology PhD Intern</p>
       <p>Duration: May 2022 - May 2023</p>
-      
     </li>
     <li>
       <h3>Coachability Consultants Inc.</h3>
       <p>Position: Data Science Consultant</p>
       <p>Duration: August - December 2022</p>
-      
+    </li>
+    <li>
+      <h3>Company 3</h3>
+      <p>Position: Job Title</p>
+      <p>Duration: Start Date - End Date</p>
+      <ul>
+        <li>Responsibility 1</li>
+        <li>Responsibility 2</li>
+        <li>Responsibility 3</li>
+      </ul>
     </li>
   </ul>
 </div>
+
 
 
   
