@@ -99,9 +99,8 @@ SIOPAnnual Conference: Seattle, WA.
   <li>Hess, R. A., Zayyad, T.N., Schneider, A. M., Miller, J. M., Landau, M. J., (2018, April). Why Does Time Fly? Exploring Whether Interpersonal Power Biases Time Perception. Poster presented at the Midwestern Psychological Association 90th Annual Meeting: Chicago, IL.</li>
   <li>Hess, R. A., & Baker, T. A., (2016, April). Understanding what Black Men Want in a Chronic Disease Self-Management Program. Poster presented at the University of Kansas Undergraduate Symposium, Lawrence, KS.</li>
     <li>Nordhem, L., Hess, R. A., & Baker, T. A., (2016, April). Chronic Disease Intervention Programs for Black Men: What Works? Poster presented at the University of Kansas Undergraduate Psychology Symposium, Lawrence, KS.</li>
-       </ul>
-    </div>
-    
+
+      
 <div id="work-experience" class="tab">
   <h2>Work Experience</h2>
   <ul>
@@ -134,5 +133,3 @@ SIOPAnnual Conference: Seattle, WA.
   <footer>
     <p>&copy; 2023. All rights reserved.</p>
   </footer>
-</body>
-</html>
