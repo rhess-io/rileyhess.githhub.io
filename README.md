@@ -1,4 +1,3 @@
-# rileyhess.githhub.io
 
 <html>
 <head>
@@ -58,20 +57,53 @@
   <main>
     <div class="tab-button-container">
       <button class="tab-button active" onclick="openTab(event, 'about')">About Me</button>
+      <button class="tab-button active" onclick="openTab(event, 'education')">Education</button>
       <button class="tab-button" onclick="openTab(event, 'skills')">Skills</button>
-      <button class="tab-button" onclick="openTab(event, 'projects')">Publications</button>
       <button class="tab-button" onclick="openTab(event, 'workexperience')">Work Experience</button>
+      <button class="tab-button" onclick="openTab(event, 'projects')">Publications</button>
     </div>
     <div id="about" class="tab active">
       <h2>About Me</h2>
       <p>Hello, my name is .</p>
     </div>
+
+ <div id="education" class="tab active">
+      <h2>Education</h2>
+     <ul>
+    <li>
+      <h3>Ph.D., Industrial-Organizational Psychology</h3>
+      <p>University of Georgia</p>
+      <p> Fall 2018 - Spring 2024 (anticipated)</p>
+    </li>
+        <li>
+      <h4>M.S., Industrial-Organizational Psychology</h3>
+      <p>University of Georgia</p>
+      <p> Fall 2018 - Spring 2022</p>
+    </li>
+  <li>
+      <h5>B.A., Psychology, with Honors, Certificate in Research Experience</h3>
+      <p>University of Kansas</p>
+      <p> Fall 2014 - Fall 2017</p>
+    </li>
+      </ul>
+    </div>
     <div id="skills" class="tab">
       <h2>Skills</h2>
       <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
+        <li>Statistical Coding Languages and Software (R, R Markdown, SPSS, Tableau)</li>
+        <li>Data and Code Storage and Management Systems (Gitlab, Github, Jupyterlab, AWS)</li>
+        <li>Quantitative and Qualitative Research Methods</li>
+        <li>Psychometrics</li>
+        <li>IRT</li>
+        <li>Advanced Statistics</li>
+        <li>Consulting and Stakeholder Analysis</li>
+        <li>People Analytics</li>
+        <li>Job Analysis and Competency Modeling</li>
+        <li>Data Visualization</li>
+        <li>Experimental Design</li>
+        <li>Survey Research and Crowdsourcing (MTurk, Prolific)</li>
+        <li>Qualtrics</li>
+        <li>Data Visualization</li>
       </ul>
     </div>
     <div id="projects" class="tab">
@@ -112,18 +144,13 @@ SIOPAnnual Conference: Seattle, WA.
     </li>
     <li>
       <h3>Coachability Consultants Inc.</h3>
-      <p>Position: Data Science Consultant</p>
+      <p>Position: Data Science Consultant (Contract)</p>
       <p>Duration: August - December 2022</p>
     </li>
     <li>
-      <h3>Company 3</h3>
-      <p>Position: Job Title</p>
-      <p>Duration: Start Date - End Date</p>
-      <ul>
-        <li>Responsibility 1</li>
-        <li>Responsibility 2</li>
-        <li>Responsibility 3</li>
-      </ul>
+      <h3>The Predictive Index</h3>
+      <p>Position: Psychometrics Consultant (Contract)</p>
+      <p>Duration: December 2021 - April 2022</p>
     </li>
   </ul>
 </div>
