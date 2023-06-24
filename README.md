@@ -69,9 +69,7 @@
 
 <p>I am passionate about helping organizations navigate technological and labor market changes to better prepare them for an uncertain and volatile future. I have led projects aimed at improving employee acceptance and use of artificial intelligence technologies, as well as conducted research on the impact of AI in the hiring process on applicant attitudes.</p> 
 
-<p>Beyond my technical skills, I am a natural collaborator and communicator. I thrive in multidisciplinary environments and enjoy working closely with stakeholders at all levels to understand their needs and deliver tailored solutions that make a real difference.</p>
-
-<p>I am excited to share my knowledge and experiences with you through this platform. Let's connect and explore how we can drive positive change together!</p>
+<p>Let's connect and explore how we can drive positive change together!</p>
 
 <h3>Contact Me</h3>
 <p>Email: rileyhess96@gmail.com</p>
