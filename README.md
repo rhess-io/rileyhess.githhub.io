@@ -60,7 +60,7 @@
       <button class="tab-button active" onclick="openTab(event, 'about')">About Me</button>
       <button class="tab-button" onclick="openTab(event, 'skills')">Skills</button>
       <button class="tab-button" onclick="openTab(event, 'projects')">Publications</button>
-      <button class="tab-button" onclick="openTab(event, 'work experience')">Work Experience</button>
+      <button class="tab-button" onclick="openTab(event, 'workexperience')">Work Experience</button>
     </div>
     <div id="about" class="tab active">
       <h2>About Me</h2>
@@ -102,7 +102,7 @@ SIOPAnnual Conference: Seattle, WA.
       </ul>
     </div>
     
-<div id="work-experience" class="tab">
+<div id="workexperience" class="tab">
   <h2>Work Experience</h2>
   <ul>
     <li>
