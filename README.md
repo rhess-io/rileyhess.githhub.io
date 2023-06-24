@@ -63,7 +63,15 @@
     </div>
     <div id="about" class="tab active">
       <h2>About Me</h2>
-      <p>Hello, my name is Riley Hess.</p>
+      <p>Welcome to my professional website! I am a dedicated professional with a passion for leveraging data-driven insights to drive meaningful change. With a background in consulting, research, and data science, I specialize in helping organizations optimize their talent management practices and navigate the complexities of business transformation.
+
+Throughout my career, I have honed my skills in analyzing complex data sets, uncovering patterns, and providing actionable recommendations. I have collaborated with both internal and external clients to develop innovative solutions that enhance performance, drive growth, and maximize the potential of individuals and teams.
+
+I am passionate about helping organizations navigate technological and labor market changes to better prepare them for an uncertain and volatile future. I have led projects aimed at improving employee acceptance and use of artificial intelligence technologies, as well as conducted research on the impact of AI in the hiring process on applicant attitudes. 
+
+Beyond my technical skills, I am a natural collaborator and communicator. I thrive in multidisciplinary environments and enjoy working closely with stakeholders at all levels to understand their needs and deliver tailored solutions that make a real difference.
+
+I am excited to share my knowledge and experiences with you through this platform. Let's connect and explore how we can drive positive change together!  .</p>
     </div>
 
     <div id="education" class="tab">
@@ -94,8 +102,7 @@
         <li>Data and Code Storage and Management Systems (Gitlab, Github, Jupyterlab, AWS)</li>
         <li>Quantitative and Qualitative Research Methods</li>
         <li>Psychometrics</li>
-        <li>IRT</li>
-        <li>Advanced Statistics</li>
+        <li>Advanced Statistics (structural equation modeling, predictive modeling, factor analysis, item response theory)</li>
         <li>Consulting and Stakeholder Analysis</li>
         <li>People Analytics</li>
         <li>Job Analysis and Competency Modeling</li>
@@ -149,14 +156,9 @@
           <p>Duration: December 2021 - April 2022</p>
         </li>
         <li>
-          <h3>University of Georgia, Department of Psychology</h3>
-          <p>Position: Graduate Research Assistant</p>
+          <h3>University of Georgia, Department of Psychology; Department of Biochemistry and Molecular Biology</h3>
+          <p>Position: Doctoral Researcher</p>
           <p>Duration: August 2018 - Present</p>
-        </li>
-        <li>
-          <h3>University of Kansas, Department of Psychology</h3>
-          <p>Position: Undergraduate Research Assistant</p>
-          <p>Duration: Fall 2016 - Spring 2018</p>
         </li>
       </ul>
     </div>
