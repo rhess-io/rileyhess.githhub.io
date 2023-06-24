@@ -63,15 +63,22 @@
     </div>
     <div id="about" class="tab active">
       <h2>About Me</h2>
-      <p>Welcome to my professional website! I am a dedicated professional with a passion for leveraging data-driven insights to drive meaningful change. With a background in consulting, research, and data science, I specialize in helping organizations optimize their talent management practices and navigate the complexities of business transformation.
+      <p>Welcome to my professional website! I am a dedicated professional with a passion for leveraging data-driven insights to drive meaningful change. With a background in consulting, research, and data science, I specialize in helping organizations optimize their talent management practices and navigate the complexities of business transformation.</p>
 
-Throughout my career, I have honed my skills in analyzing complex data sets, uncovering patterns, and providing actionable recommendations. I have collaborated with both internal and external clients to develop innovative solutions that enhance performance, drive growth, and maximize the potential of individuals and teams.
+<p>Throughout my career, I have honed my skills in analyzing complex data sets, uncovering patterns, and providing actionable recommendations. I have collaborated with both internal and external clients to develop innovative solutions that enhance performance, drive growth, and maximize the potential of individuals and teams.</p>
 
-I am passionate about helping organizations navigate technological and labor market changes to better prepare them for an uncertain and volatile future. I have led projects aimed at improving employee acceptance and use of artificial intelligence technologies, as well as conducted research on the impact of AI in the hiring process on applicant attitudes. 
+<p>I am passionate about helping organizations navigate technological and labor market changes to better prepare them for an uncertain and volatile future. I have led projects aimed at improving employee acceptance and use of artificial intelligence technologies, as well as conducted research on the impact of AI in the hiring process on applicant attitudes.</p> 
 
-Beyond my technical skills, I am a natural collaborator and communicator. I thrive in multidisciplinary environments and enjoy working closely with stakeholders at all levels to understand their needs and deliver tailored solutions that make a real difference.
+<p>Beyond my technical skills, I am a natural collaborator and communicator. I thrive in multidisciplinary environments and enjoy working closely with stakeholders at all levels to understand their needs and deliver tailored solutions that make a real difference.</p>
 
-I am excited to share my knowledge and experiences with you through this platform. Let's connect and explore how we can drive positive change together!  .</p>
+<p>I am excited to share my knowledge and experiences with you through this platform. Let's connect and explore how we can drive positive change together!</p>
+
+<h3>Contact Me</h3>
+<p>Email: rileyhess96@gmail.com</p>
+<p>LinkedIn: https://www.linkedin.com/in/riley-hess/</p>
+
+
+
     </div>
 
     <div id="education" class="tab">
