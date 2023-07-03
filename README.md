@@ -185,7 +185,7 @@
     <a href="project2.html">View Applicant Reactions to AI-Enabled Employee Selection</a>
   </div>
   <div class="project">
-    <img src="images/project3.jpg" alt="Project 3">
+    <img src="Screenshot 2023-07-03 at 11.34.41 AM.png" alt="Project 3" style="width: 2in; height: 2in;">
     <h3>Blog: How do we study human-AI interaction?</h3>
     <p>In this post, I outline existing theories that may be applied to the study of human-AI interaction.</p>
     <a href="project3.html">View Blog Post: How do we study human-AI interaction?</a>
