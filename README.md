@@ -1,4 +1,4 @@
-%:
+
 <html>
 <head>
   <title>Riley Hess, M.S., Doctoral Candidate</title>
