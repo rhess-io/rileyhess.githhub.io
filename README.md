@@ -169,28 +169,72 @@
   </main>
 </body>
 </html>
+<style>
+  #projects {
+    margin-top: 40px;
+  }
+
+  #projects h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .project {
+    margin-bottom: 40px;
+  }
+
+  .project img {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .project h3 {
+    font-size: 20px;
+    margin: 20px 0;
+  }
+
+  .project p {
+    margin-bottom: 10px;
+  }
+
+  .project a {
+    color: #577590;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  .project a:hover {
+    text-decoration: underline;
+  }
+</style>
 
 <div id="projects" class="tab">
   <h2>UNDER CONSTRUCTION: Projects</h2>
   <div class="project">
-<img src="Screenshot 2023-07-03 at 11.02.28 AM.png" alt="Project 1" style="width: 2in; height: 2in;">
+    <img src="Screenshot 2023-07-03 at 11.02.28 AM.png" alt="Project 1">
     <h3>AI-Related Job Insecurity among Highly-Skilled Workers</h3>
     <p>In this study, I identify attitudes toward AI-related unemployment in a sample of MBAs.</p>
     <a href="job-insecurity.html">View AI-Related Job Insecurity among Highly-Skilled Workers</a>
   </div> 
   <div class="project">
-    <img src="Screenshot 2023-07-03 at 11.31.37 AM.png" alt="Project 2" style="width: 2in; height: 2in;">
+    <img src="Screenshot 2023-07-03 at 11.31.37 AM.png" alt="Project 2">
     <h3>Applicant Reactions to AI-Enabled Employee Selection</h3>
     <p>AI in hiring decisions is a double-edged sword. Negative reactions to hiring decisions made by AI (as opposed to a human hiring manager) stem from applicants' reduced sense of control over the hiring outcome. At the same time, I find that applicants do view the decisions made by AI as more stable.</p>
     <a href="project2.html">View Applicant Reactions to AI-Enabled Employee Selection</a>
   </div>
   <div class="project">
-    <img src="Screenshot 2023-07-03 at 11.34.41 AM.png" alt="Project 3" style="width: 2in; height: 2in;">
+    <img src="Screenshot 2023-07-03 at 11.34.41 AM.png" alt="Project 3">
     <h3>Blog: How do we study human-AI interaction?</h3>
     <p>In this post, I outline existing theories that may be applied to the study of human-AI interaction.</p>
     <a href="project3.html">View Blog Post: How do we study human-AI interaction?</a>
   </div>
 </div>
+
 
   
   <footer>
