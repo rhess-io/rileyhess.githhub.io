@@ -173,7 +173,7 @@
 <div id="projects" class="tab">
   <h2>Projects</h2>
   <div class="project">
-    <img src="Screenshot 2023-07-03 at 11.03.23 AM.png" alt="Project 1">
+<img src="/Screenshot 2023-07-03 at 11.02.28 AM.png" alt="Project 1" style="width: 2in; height: 2in;">
     <h3>AI-Related Job Insecurity among Highly-Skilled Workers</h3>
     <p>In this study, I identify attitudes toward AI-related unemployment in a sample of MBAs.</p>
     <a href="project1.html">View AI-Related Job Insecurity among Highly-Skilled Workers</a>
