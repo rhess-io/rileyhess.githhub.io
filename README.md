@@ -179,7 +179,7 @@
     <a href="project1.html">View AI-Related Job Insecurity among Highly-Skilled Workers</a>
   </div>
   <div class="project">
-    <img src="images/project2.jpg" alt="Project 2">
+    <img src="Screenshot 2023-07-03 at 11.31.37 AM.png" alt="Project 2" style="width: 2in; height: 2in;">
     <h3>Applicant Reactions to AI-Enabled Employee Selection</h3>
     <p>AI in hiring decisions is a double-edged sword. Negative reactions to hiring decisions made by AI (as opposed to a human hiring manager) stem from applicants' reduced sense of control over the hiring outcome. At the same time, I find that applicants do view the decisions made by AI as more stable.</p>
     <a href="project2.html">View Applicant Reactions to AI-Enabled Employee Selection</a>
