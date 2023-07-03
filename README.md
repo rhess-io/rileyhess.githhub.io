@@ -172,22 +172,22 @@
 <div id="projects" class="tab">
   <h2>Projects</h2>
   <div class="project">
-    <img src="images/project1.jpg" alt="Project 1">
-    <h3>Project 1</h3>
-    <p>Description of Project 1</p>
-    <a href="project1.html">View Project 1</a>
+    <img src="Screenshot 2023-07-03 at 11.03.23 AM.png" alt="Project 1">
+    <h3>AI-Related Job Insecurity among Highly-Skilled Workers</h3>
+    <p>In this study, I identify attitudes toward AI-related unemployment in a sample of MBAs.</p>
+    <a href="project1.html">View AI-Related Job Insecurity among Highly-Skilled Workers</a>
   </div>
   <div class="project">
     <img src="images/project2.jpg" alt="Project 2">
-    <h3>Project 2</h3>
-    <p>Description of Project 2</p>
-    <a href="project2.html">View Project 2</a>
+    <h3>Applicant Reactions to AI-Enabled Employee Selection</h3>
+    <p>AI in hiring decisions is a double-edged sword. Negative reactions to hiring decisions made by AI (as opposed to a human hiring manager) stem from applicants' reduced sense of control over the hiring outcome. At the same time, I find that applicants do view the decisions made by AI as more stable.</p>
+    <a href="project2.html">View Applicant Reactions to AI-Enabled Employee Selection</a>
   </div>
   <div class="project">
     <img src="images/project3.jpg" alt="Project 3">
-    <h3>Project 3</h3>
-    <p>Description of Project 3</p>
-    <a href="project3.html">View Project 3</a>
+    <h3>Blog: How do we study human-AI interaction?</h3>
+    <p>In this post, I outline existing theories that may be applied to the study of human-AI interaction.</p>
+    <a href="project3.html">View Blog Post: How do we study human-AI interaction?</a>
   </div>
 </div>
 
