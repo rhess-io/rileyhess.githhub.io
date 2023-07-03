@@ -171,6 +171,27 @@
 </body>
 </html>
 
+<div id="projects" class="tab">
+  <h2>Projects</h2>
+  <div class="project">
+    <img src="images/project1.jpg" alt="Project 1">
+    <h3>Project 1</h3>
+    <p>Description of Project 1</p>
+    <a href="project1.html">View Project 1</a>
+  </div>
+  <div class="project">
+    <img src="images/project2.jpg" alt="Project 2">
+    <h3>Project 2</h3>
+    <p>Description of Project 2</p>
+    <a href="project2.html">View Project 2</a>
+  </div>
+  <div class="project">
+    <img src="images/project3.jpg" alt="Project 3">
+    <h3>Project 3</h3>
+    <p>Description of Project 3</p>
+    <a href="project3.html">View Project 3</a>
+  </div>
+</div>
 
   
   <footer>
