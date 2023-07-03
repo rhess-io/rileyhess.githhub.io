@@ -59,7 +59,8 @@
       <button class="tab-button" onclick="openTab(event, 'education')">Education</button>
       <button class="tab-button" onclick="openTab(event, 'skills')">Skills</button>
       <button class="tab-button" onclick="openTab(event, 'workexperience')">Work Experience</button>
-      <button class="tab-button" onclick="openTab(event, 'projects')">Publications</button>
+      <button class="tab-button" onclick="openTab(event, 'publications')">Publications</button>
+      <button class="tab-button" onclick="openTab(event, 'projects')">Projects</button>
     </div>
     <div id="about" class="tab active">
       <h2>About Me</h2>
@@ -74,9 +75,6 @@
 <h3>Contact Me</h3>
 <p>Email: rileyhess96@gmail.com</p>
 <p>LinkedIn: https://www.linkedin.com/in/riley-hess/</p>
-
-
-
     </div>
 
     <div id="education" class="tab">
@@ -119,7 +117,7 @@
       </ul>
     </div>
 
-    <div id="projects" class="tab">
+    <div id="publications" class="tab">
       <h2>Publications</h2>
       <ul>
         <li>Hess, R. A., Erickson, O. A., Cole, R. B., Isaacs, J. M., Alvarez-Clare, S., Arnold, J., ... & Dolan, E. L. (2023). Virtually the same? Evaluating the effectiveness of remote undergraduate research experiences. CBE—Life Sciences Education, 22(2).</li>
