@@ -218,13 +218,13 @@
   <div class="project">
     <img src="Screenshot 2023-07-03 at 11.02.28 AM.png" alt="Project 1">
     <h3>AI-Related Job Insecurity among Highly-Skilled Workers</h3>
-    <p>In this study, I identify attitudes toward AI-related unemployment in a sample of MBAs.</p>
+    <p>Why do some workers fear being replaced by AI? How do their perceptions of AI differ from those who do not fear technological unemployment by AI?</p>
     <a href="job-insecurity.html">View AI-Related Job Insecurity among Highly-Skilled Workers</a>
   </div> 
   <div class="project">
     <img src="Screenshot 2023-07-03 at 11.31.37 AM.png" alt="Project 2">
     <h3>Applicant Reactions to AI-Enabled Employee Selection</h3>
-    <p>AI in hiring decisions is a double-edged sword. Negative reactions to hiring decisions made by AI (as opposed to a human hiring manager) stem from applicants' reduced sense of control over the hiring outcome. At the same time, I find that applicants do view the decisions made by AI as more stable.</p>
+    <p>The use of AI in hiring decisions presents a double-edged sword. Negative reactions to hiring decisions made by AI (as opposed to a human hiring manager) stem from applicants' reduced sense of control over the hiring outcome. At the same time, applicants view the decisions made by AI as more stable.</p>
     <a href="project2.html">View Applicant Reactions to AI-Enabled Employee Selection</a>
   </div>
   <div class="project">
